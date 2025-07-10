@@ -4,6 +4,7 @@
   "description": "React URL shortner",
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
